@@ -36,4 +36,4 @@ const handleText = (text) => {
   console.log("Texto de entrada ==>", text);
   console.log("Salida ===>", newString.replace(/0/g, " "));
 };
-handleText("hay lo tienes payaso  de mierda");
+handleText("texto de prueba");
